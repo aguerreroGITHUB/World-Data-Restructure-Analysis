@@ -1,0 +1,71 @@
+## Interesting indicators:
+
+- %Electricity%          ***#Infrastructure***
+    - EG.ELC.ACCS.ZS	Access to electricity (% of population)
+    - EG.ELC.ACCS.RU.ZS	Access to electricity, rural (% of rural population)
+    - EG.ELC.ACCS.UR.ZS	Access to electricity, urban (% of urban population)
+    - EG.ELC.RNWX.ZS	Electricity production from renewable sources, excluding hydroelectric (% of total)
+- %population%     ***# Infrastructure***
+    - SP.URB.TOTL.IN.ZS	Urban population (% of total)
+    - SP.RUR.TOTL.ZS	Rural population (% of total population)
+- %internet%          ***# Infrastructure***
+    - IT.NET.USER.P2	Internet users (per 100 people)
+    - IT.NET.SECR.P6	Secure Internet servers (per 1 million people)
+- %production%          ***# Infrastructure***
+    - EG.ELC.COAL.ZS	Electricity production from coal sources (% of total)
+    - EG.ELC.PETR.ZS	Electricity production from oil sources (% of total)
+    - EG.ELC.HYRO.ZS	Electricity production from hydroelectric sources (% of total)
+    - EG.ELC.NGAS.ZS	Electricity production from natural gas sources (% of total)
+    - EG.ELC.NUCL.ZS	Electricity production from nuclear sources (% of total)
+    - EG.ELC.RNWX.ZS	Electricity production from renewable sources, excluding hydroelectric (% of total)
+- %Employ%                       ***#Economy & Employment section***
+    - SL.AGR.EMPL.ZS	Employment in agriculture (% of total employment)
+    - SL.IND.EMPL.ZS	Employment in industry (% of total employment)
+    - SL.SRV.EMPL.ZS	Employment in services (% of total employment)
+    - SL.UEM.TOTL.ZS	Unemployment, total (% of total labor force)
+    
+    - SL.AGR.EMPL.FE.ZS	Employment in agriculture, female (% of female employment)
+    - SL.AGR.EMPL.MA.ZS	Employment in agriculture, male (% of male employment)
+    - SL.IND.EMPL.FE.ZS	Employment in industry, female (% of female employment)
+    - SL.IND.EMPL.MA.ZS	Employment in industry, male (% of male employment)
+    - SL.SRV.EMPL.FE.ZS	Employment in services, female (% of female employment)
+    - SL.SRV.EMPL.MA.ZS	Employment in services, male (% of male employment)
+    - SL.UEM.TOTL.MA.ZS	Unemployment, male (% of male labor force)
+    - SL.UEM.TOTL.FE.ZS	Unemployment, female (% of female labor force)
+- %tax%     ***#Economy & Employment section***
+    - GC.TAX.TOTL.GD.ZS	Tax revenue (% of GDP)
+    - GC.TAX.GSRV.RV.ZS	Taxes on goods and services (% of revenue)
+    - GC.TAX.YPKG.RV.ZS	Taxes on income, profits and capital gains (% of revenue)
+    - GC.TAX.INTT.RV.ZS	Taxes on international trade (% of revenue)
+- %education%   ***#Education Section***
+    - SL.TLF.PRIM.ZS	Labor force with primary education (% of total)
+    - SL.TLF.SECO.ZS	Labor force with secondary education (% of total)
+    - SL.TLF.TERT.ZS	        Labor force with tertiary education (% of total)
+    - SL.UEM.PRIM.ZS	Unemployment with primary education (% of total unemployment)
+    - SL.UEM.SECO.ZS	Unemployment with secondary education (% of total unemployment)
+    - SL.UEM.TERT.ZS	Unemployment with tertiary education (% of total unemployment)
+    
+    - SE.PRM.TCHR.FE.ZS	Percentage of teachers in primary education who are female (%)
+    - SE.SEC.TCHR.FE.ZS	Percentage of teachers in secondary education who are female (%)
+    - SE.TER.TCHR.FE.ZS	Percentage of teachers in tertiary education who are female (%)
+    
+    - SL.UEM.NEET.ZS	        Share of youth not in education, employment, or training, total (% of youth population)
+    - SL.UEM.NEET.MA.ZS	Share of youth not in education, employment, or training, male (% of male youth population)
+    - SL.UEM.NEET.FE.ZS	        Share of youth not in education, employment, or training, female (% of female youth population)
+- %mortality%    ***# Health & Mortality Section***
+    - SH.DYN.NMRT	        Mortality rate, neonatal (per 1,000 live births)
+    - [SP.DYN.IMRT.IN](http://sp.dyn.imrt.in/)	Mortality rate, infant (per 1,000 live births)
+    - SP.DYN.AMRT.FE	Mortality rate, adult, female (per 1,000 female adults)
+    - [SP.DYN.AMRT.MA](http://sp.dyn.amrt.ma/)	Mortality rate, adult, male (per 1,000 male adults)
+- %Smoking Prevalence%   ***# Health & Mortality Section***
+    - SH.PRV.SMOK.FE	Smoking prevalence, females (% of adults)
+    - [SH.PRV.SMOK.MA](http://sh.prv.smok.ma/)	Smoking prevalence, males (% of adults)
+- %health%    ***# Health & Mortality Section***
+    - SH.XPD.PCAP	Health expenditure per capita (current US$)
+    - SH.XPD.PRIV.ZS	Health expenditure, private (% of GDP)
+    - SH.XPD.PUBL.ZS	Health expenditure, public (% of GDP)
+    - SH.XPD.PUBL.GX.ZS	Health expenditure, public (% of government expenditure)
+- %life expectancy%  ***# Health & Mortality Section***
+    - [SP.DYN.LE00.FE.IN](http://sp.dyn.le00.fe.in/)	Life expectancy at birth, female (years)
+    - [SP.DYN.LE00.MA.IN](http://sp.dyn.le00.ma.in/)	Life expectancy at birth, male (years)
+    - [SP.DYN.LE00.IN](http://sp.dyn.le00.in/)	Life expectancy at birth, total (years)
