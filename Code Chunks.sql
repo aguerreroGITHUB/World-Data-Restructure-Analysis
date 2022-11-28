@@ -2,6 +2,7 @@
 select * from indicators;
 select * from countries;
 
+---------------------------------------------------------------------------------------------------
 --- Regional tables, 2010 data ---
 select CountryCode as Region, IndicatorCode, IndicatorName, AVG(Value) as EUU, Year
 from indicators where countrycode = 'EUU' AND year = 2010
@@ -32,6 +33,7 @@ where Year = 2010
 GROUP BY Region, IndicatorCode, IndicatorName, year
 ;
 
+---------------------------------------------------------------------------------------------------
 --- NEW STRUCTURE TABLE ---
 Select e.IndicatorCode, e.IndicatorName, EUU, USA, CHN, ME_NA, SSA -- All the columsn
 from (
